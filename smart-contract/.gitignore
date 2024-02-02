@@ -4,6 +4,7 @@ node_modules
 # Hardhat files
 /cache
 /artifacts
+/hardhat.config.js
 
 # TypeChain files
 /typechain
@@ -12,4 +13,3 @@ node_modules
 # solidity-coverage files
 /coverage
 /coverage.json
-hardhat.config.js
